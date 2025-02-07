@@ -2,6 +2,7 @@
 An interactive in-browser code editor that allows you to write, edit, and execute code seamlessly within your web browser. Built with React, Vite, and Monaco Editor, this project provides a sleek, real-time coding environment for developers and learners.
 
 🌟 Features
+
 ✅ Real-time Code Execution – Edit and see results instantly
 ✅ Syntax Highlighting – Powered by Monaco Editor (used in VS Code)
 ✅ Multi-Language Support – Run Python, JavaScript, and more
